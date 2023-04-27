@@ -2,7 +2,7 @@ from setuptools import setup, find_namespace_packages
 
 setup(
     name='Schone Map',
-    version='0.0.5',
+    version='1.1.0',
     description='A script for sorting files by etemsion in folder',
     author='Oleksandr Pripa',
     author_email='ol.pripa@gmail.com',
@@ -14,5 +14,5 @@ setup(
     "Operating System :: OS Independent",
     ],
     packages=find_namespace_packages(),
-    entry_points = {'console_scripts': ['cleanfolder=cleanfolder.sort:main']}
+    entry_points = {'console_scripts': ['cleanfolder=src.cleanfolder.sort:main']}
 )
