@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+Schone_Map.egg-info/PKG-INFO
+Schone_Map.egg-info/SOURCES.txt
+Schone_Map.egg-info/dependency_links.txt
+Schone_Map.egg-info/entry_points.txt
+Schone_Map.egg-info/top_level.txt
+src/cleanfolder/__init__.py
+src/cleanfolder/normalize.py
+src/cleanfolder/sort.py

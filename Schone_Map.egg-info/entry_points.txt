@@ -1,0 +1,2 @@
+[console_scripts]
+cleanfolder = src.cleanfolder.sort:main
